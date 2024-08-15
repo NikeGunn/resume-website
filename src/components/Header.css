@@ -1,0 +1,53 @@
+.hero {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 50vh;
+  background: linear-gradient(to right, #fff6f6, #ffefef);
+  color: rgb(0, 0, 0);
+  padding: 0 20px;
+}
+
+.hero-container {
+  display: flex;
+  align-items: center;
+}
+
+.hero-left {
+  margin-right: 50px;
+}
+
+.profile-pic {
+  width: 250px;
+  height: 250px;
+  border-radius: 50%;
+  box-shadow: 0 0 15px rgba(249, 117, 117, 0.5);
+}
+
+.hero-right {
+  text-align: left;
+}
+
+.hero-right h1 {
+  font-size: 2.5rem;
+  margin: 0;
+}
+
+.hero-right p {
+  margin: 5px 0;
+  font-size: 1.2rem;
+}
+
+.hero-right a {
+  color: #00aaff;
+  text-decoration: none;
+}
+
+.hero-right a:hover {
+  text-decoration: underline;
+}
+
+.hero-right svg {
+  font-size: 1.2rem; /* Adjust icon size */
+  color: #000203;   /* Icon color */
+}
