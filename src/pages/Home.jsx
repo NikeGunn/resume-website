@@ -23,6 +23,9 @@ const Home = () => {
       <section>
         <h2>Projects</h2>
         <ProjectCard link="https://nikhilbhagat.com.np/" />
+        <ProjectCard link="https://github.com/NikeGunn/cineart-backend-v1" />
+        <ProjectCard link="https://github.com/NikeGunn/BattisPutali-v2/" />
+        <ProjectCard link="https://github.com/NikeGunn/battisPutali-backend-v2-Beta" />
         <ProjectCard link="https://github.com/NikeGunn/numathecafe.git"/>
         <ProjectCard link="https://github.com/NikeGunn/meetup-app.git"/>
         <ProjectCard link="https://github.com/NikeGunn/PyShop-in-DJANGO/tree/master"/>
